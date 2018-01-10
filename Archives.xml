@@ -1,1 +1,6 @@
-<ROOT/>
+<?xml version="1.0" encoding="UTF-8"?><ROOT>
+<ArchInfo Date="1515584963962" Description="Min första incheckning i GitHub för SAS DI Studio" Name="Roger test Git" PackageName="Roger test Git.spk" UserID="rosv@FI" Version="68cdbbf">
+<ContainObj>SBIP://METASERVER/ETL/BA/1.PRE_PROCESS/JOBS/Roger test git(Job)</ContainObj>
+<ContainObj>SBIP://METASERVER/ETL/BA/1.PRE_PROCESS/JOBS/Roger test git.sas(Note)</ContainObj>
+</ArchInfo>
+</ROOT>
