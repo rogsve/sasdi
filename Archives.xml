@@ -3,4 +3,7 @@
 <ContainObj>SBIP://METASERVER/ETL/BA/1.PRE_PROCESS/JOBS/Roger test git(Job)</ContainObj>
 <ContainObj>SBIP://METASERVER/ETL/BA/1.PRE_PROCESS/JOBS/Roger test git.sas(Note)</ContainObj>
 </ArchInfo>
+<ArchInfo Date="1515585317416" Description="Ytterliggare ett försök" Name="Roger test 2 med git" PackageName="Roger test 2 med git.spk" UserID="rosv@FI" Version="2306710">
+<ContainObj>SBIP://METASERVER/ETL/BA/1.PRE_PROCESS/JOBS/Roger test git(Job)</ContainObj>
+</ArchInfo>
 </ROOT>
