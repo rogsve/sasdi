@@ -6,4 +6,10 @@
 <ArchInfo Date="1515585317416" Description="Ytterliggare ett försök" Name="Roger test 2 med git" PackageName="Roger test 2 med git.spk" UserID="rosv@FI" Version="2306710">
 <ContainObj>SBIP://METASERVER/ETL/BA/1.PRE_PROCESS/JOBS/Roger test git(Job)</ContainObj>
 </ArchInfo>
+<ArchInfo Date="1516188928365" Description="" Name="Incheckning av två jobb samtidigt" PackageName="Incheckning av två jobb samtidigt.spk" UserID="rogsve@FI" Version="cbf7564">
+<ContainObj>SBIP://METASERVER/ETL/BA/1.PRE_PROCESS/JOBS/Roger test git2(Job)</ContainObj>
+<ContainObj>SBIP://METASERVER/ETL/BA/1.PRE_PROCESS/JOBS/Roger test git(Job)</ContainObj>
+<ContainObj>SBIP://METASERVER/ETL/BA/1.PRE_PROCESS/JOBS/Roger test git2.sas(Note)</ContainObj>
+<ContainObj>SBIP://METASERVER/ETL/BA/1.PRE_PROCESS/JOBS/Roger test git.sas(Note)</ContainObj>
+</ArchInfo>
 </ROOT>
